@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #fff;
+}
+
+#container{
+    width: 25%;
+    height: 25%;
+    background-color: blue;
+    margin: 200px;
+    opacity: 0;
+}
+
+#container:hover{
+    opacity: 1;
+}
